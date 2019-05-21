@@ -12,6 +12,7 @@ import javax.sql.DataSource;
 @Configuration
 public class ActivitiConfig {
 //公爱上电话加手机掉实践活动公按时交多久啊搜京东
+//    sdsdsdsd
     //流程配置，与spring整合采用SpringProcessEngineConfiguration这个实现
     @Bean
     public ProcessEngineConfiguration processEngineConfiguration(DataSource dataSource, PlatformTransactionManager transactionManager){
